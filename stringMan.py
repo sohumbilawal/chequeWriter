@@ -1,3 +1,9 @@
+#This code was created only to gain an understanding of how to effectively
+#break the "before decimal point" part into parts of 3 or less. This was done
+#so that the before decimal part would work with the code already in place for
+#the after decimal (cents) parts of the picture. The variable 'i' is created
+#to count number of sets of 3 or less numbers that exist, and accordingly use
+#the appropriate power (from list 'powers') in the output.
 befDec = "12345"
 #prn = befDec[-len(befDec)+3*n:-len(befDec)+3*(n-1)]
 prn = befDec[-len(befDec)+3:]
