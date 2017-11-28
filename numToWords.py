@@ -1,3 +1,17 @@
+###############################################################################
+#Code written by Sohum Bilawal Joshi on 11/27/2017
+#Edit/ Version history:
+    #Sohum Bilawal Joshi 11/27/2017
+    #...
+###############################################################################
+#Please keep the line(s) above as they are, and you can ONLY add your own name
+#and date stamp after you have made changes to it.
+#DO NOT delete the name of the previous contributor(s).
+#Use the code responsibly, and for academic purposes ONLY.
+#Not for commercial use or monetary benefit of any users without prior consent.
+#Thank you.
+###############################################################################
+
 #This program takes as input a dollar amount in numerical format
 #(float). The program essentially “reads the numbers” and outputs a
 #string of the numbers in word form. This is akin to a check writer

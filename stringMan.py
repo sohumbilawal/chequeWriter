@@ -1,3 +1,17 @@
+###############################################################################
+#Code written by Sohum Bilawal Joshi on 11/27/2017
+#Edit/ Version history:
+    #Sohum Bilawal Joshi 11/27/2017
+    #...
+###############################################################################
+#Please keep the line(s) above as they are, and you can ONLY add your own name
+#and date stamp after you have made changes to it.
+#DO NOT delete the name of the previous contributor(s).
+#Use the code responsibly, and for academic purposes ONLY.
+#Not for commercial use or monetary benefit of any users without prior consent.
+#Thank you.
+###############################################################################
+
 #This code was created only to gain an understanding of how to effectively
 #break the "before decimal point" part into parts of 3 or less. This was done
 #so that the before decimal part would work with the code already in place for
