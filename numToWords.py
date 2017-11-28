@@ -1,3 +1,8 @@
+#This program takes as input a dollar amount in numerical format
+#(float). The program essentially “reads the numbers” and outputs a
+#string of the numbers in word form. This is akin to a check writer
+#(where you need an amount in both numbers and words), and thus the name.
+
 amount = float(input("Please enter the amount in numbers: $")) # take input in numeric form with type float
 amount = float(format(amount, '0.2f')) # modify numeric input to round up to only 2 decimal places
 #print(amount, type(amount))
